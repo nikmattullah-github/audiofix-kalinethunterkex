@@ -2,7 +2,7 @@
 Fix Audio Stream Port vnc/nethunter kex
 
 #Step1 open terminal kaliLinux Tambahkan code ini pada file xstartup
-nano.vnc/xstartup
+nano .vnc/xstartup
 
 #!/bin/bash
 unset SESSION_MANAGER
